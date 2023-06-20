@@ -3,11 +3,10 @@
 @tailwind utilities;
 
 @layer base {
-    .font-outline-1 {
-        -webkit-text-stroke: 1px black;
-    }
-    .font-outline-4 {
-        -webkit-text-stroke: 4px black;
-    }
-   
+  .font-outline-1 {
+    -webkit-text-stroke: 1px black;
+  }
+  .font-outline-4 {
+    -webkit-text-stroke: 4px black;
+  }
 }
